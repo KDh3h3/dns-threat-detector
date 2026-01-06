@@ -1,0 +1,10 @@
+timestamp,src_ip,query,qtype,response,ttl
+2026-01-04 10:01,10.0.0.5,asdj23lkj23lkj.example.com,TXT,NOERROR,60
+2026-01-04 10:02,10.0.0.5,google.com,A,NOERROR,300
+2026-01-04 10:03,10.0.0.7,zzxqweplmnbv.biz,A,NXDOMAIN,30
+2026-01-04 10:04,10.0.0.7,zzxqweplmnbv.biz,A,NXDOMAIN,30
+2026-01-04 10:05,10.0.0.7,zzxqweplmnbv.biz,A,NXDOMAIN,30
+2026-01-04 10:06,10.0.0.9,normaldomain.com,A,NOERROR,300
+2026-01-04 11:10,10.0.0.99,lkjasd98as7d9as8d.xyz,TXT,NXDOMAIN,10
+2026-01-04 11:12,10.0.0.7,qwe98zx7c6v5b4n.biz,TXT,NXDOMAIN,10
+2026-01-04 11:13,10.0.0.7,kjhasd987asdhaj.xyz,TXT,NXDOMAIN,10
