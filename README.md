@@ -30,7 +30,7 @@ Detects randomly generated or obfuscated domains often used in:
 - DGA-based malware
 
 ### 2. NXDOMAIN Abuse  
-Identifies hosts repeatedly querying non-existent domains — a common trait of:
+Identifies hosts repeatedly querying non-existent domains, a common trait of:
 - Malware testing generated domains
 - Failed C2 discovery attempts
 
@@ -129,5 +129,6 @@ Run the tool:
 ```bash
 python main.py
 ```
+
 
 
