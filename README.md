@@ -1,7 +1,7 @@
 # DNS Threat Detector  
 **Early-Stage Threat Detection Using DNS Traffic Analysis**
 
-DNS Threat Detector is a defensive cybersecurity tool that analyzes DNS query behavior to identify **early indicators of compromise** such as malware beaconing, domain generation algorithms (DGA), DNS tunneling, and suspicious host activity — *before* payload delivery or data exfiltration occurs.
+DNS Threat Detector is a defensive cybersecurity tool that analyzes DNS query behavior to identify **early indicators of compromise** such as malware beaconing, domain generation algorithms (DGA), DNS tunneling, and suspicious host activity  *before* payload delivery or data exfiltration occurs.
 
 Unlike traditional DNS security tools that rely primarily on static blacklists or known malicious domains, this project focuses on **behavioral and anomaly-based detection**, making it effective against **unknown, zero-day, and newly registered attacker infrastructure**.
 
@@ -129,4 +129,5 @@ Run the tool:
 ```bash
 python main.py
 ```
+
 
